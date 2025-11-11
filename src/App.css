@@ -1,0 +1,19 @@
+.app-container {
+  padding: 24px;
+}
+
+.grid-gap {
+  display: grid;
+  gap: 12px;
+}
+
+.mt-16 { margin-top: 16px; }
+.mt-24 { margin-top: 24px; }
+
+.photo {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}

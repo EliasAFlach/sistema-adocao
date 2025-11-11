@@ -1,0 +1,25 @@
+{
+  "animals": [
+    {
+      "id": "2",
+      "name": "Thor",
+      "species": "Cachorro",
+      "age": 4,
+      "photoUrl": "https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"
+    },
+    {
+      "id": "6aef",
+      "name": "teste",
+      "species": "Husky",
+      "age": "3",
+      "photoUrl": "https://images.dog.ceo/breeds/husky/20180904_185604.jpg"
+    },
+    {
+      "id": "8cc3",
+      "name": "teste",
+      "species": "teste",
+      "age": "3",
+      "photoUrl": "https://images.dog.ceo/breeds/labrador/IMG_4708.jpg"
+    }
+  ]
+}
